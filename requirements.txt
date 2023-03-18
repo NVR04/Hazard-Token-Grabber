@@ -1,3 +1,0 @@
-shutil
-colorama
-requests
